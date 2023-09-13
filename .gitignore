@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+consommation-quotidienne-brute-regionale.csv
 # C extensions
 *.so
 
